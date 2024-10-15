@@ -1,2 +1,2 @@
 abc
-this is text
+this is textThis is new lineThis is new line
